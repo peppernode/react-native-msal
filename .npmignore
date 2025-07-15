@@ -1,5 +1,5 @@
 # Exclude all top-level hidden directories by convention
-/.*/
+.*
 
 __mocks__
 __tests__
