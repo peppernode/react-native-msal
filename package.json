@@ -29,6 +29,12 @@
     "aad",
     "expo"
   ],
+  "files": [
+    "build",
+    "plugin",
+    "README.md",
+    "package.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stashenergy/react-native-msal.git"
